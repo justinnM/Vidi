@@ -36,7 +36,7 @@ p{
 		background-size: 100%;
 	}
 
-	#title{
+	#title_container{
 
 		border-style: solid;
 		height:5vh;
@@ -151,7 +151,7 @@ p{
 
 	}
 
-	#description{
+	#description_container{
 
 	border-style: solid;
 	width:50vw;
